@@ -6,7 +6,7 @@ venv/
 
 # YOLO training
 runs/
-*.pt
+# *.pt
 
 # Uploads and generated images
 backend/uploads/
