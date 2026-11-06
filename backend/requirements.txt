@@ -6,3 +6,4 @@ opencv-python-headless
 opencv-contrib-python
 pillow
 google-adk
+python-dotenv
